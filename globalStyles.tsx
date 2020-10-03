@@ -46,7 +46,7 @@ export const Button = styled.button<ButtonProps>`
     background-color: #4B59F7;
   }
 
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 768px) {
     width: 50%;
   }
 `;
